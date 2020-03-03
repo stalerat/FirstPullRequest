@@ -78,7 +78,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Purak, Amina
 
-- [X] Pushkin, Daniil (@stalerat) 🐈
+- [X] Pushkin, Daniil (@stalerat) :cat:
 
 - [ ] Ray, Saurav
 
